@@ -30,6 +30,8 @@ int remove_dup(int arr[], int len)
 	return len_chg;
 }
 
+//modify from xcode
+
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	int arr[] = {1,2,3,3,3,4,4,5,6,7,8,8,8,9,9};
